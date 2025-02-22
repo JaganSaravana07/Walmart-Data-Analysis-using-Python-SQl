@@ -3,7 +3,7 @@
 ![Walmart Project Workflow](https://github.com/user-attachments/assets/d39df17b-d051-45b1-bd6b-865ed6a560fa)
 This project is a comprehensive end-to-end data analysis solution aimed at uncovering key business insights from Walmart sales data. It leverages Python for data processing and analysis, SQL for advanced querying, and structured problem-solving techniques to address critical business questions. Designed for data analysts, this project helps develop expertise in data manipulation, SQL querying, and building efficient data pipelines.
 ## End-to-End Data Processing and SQL Analytics Workflow:
--- **1. Data Exploration**
+### **1. Data Exploration**
 - Goal: Perform an initial assessment of the dataset to understand its structure, distribution, and potential issues.
 - Analysis: Utilize functions like .info(), .describe(), and .head() to review column names, data types, and summary statistics.
 
