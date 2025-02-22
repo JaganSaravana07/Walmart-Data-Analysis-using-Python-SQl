@@ -28,10 +28,29 @@ This project is a comprehensive end-to-end data analysis solution aimed at uncov
 - Determining peak sales periods and customer purchasing behaviors.
 ## PSQL Business Queries
 1. What is the total sales revenue for each branch?
-- 2. Which are the top 5 best-selling product categories?
-What is the average customer rating for each payment method?
-At what time do sales peak during the day?
-Which cities generate the highest revenue?
-Which branch has the highest profit margin?
-How do sales trends change on a monthly basis?
-What is the most preferred payment method among customers?
+2. Which are the top 5 best-selling product categories?
+3. What is the average customer rating for each payment method?
+4. At what time do sales peak during the day?
+5. Which cities generate the highest revenue?
+6. Which branch has the highest profit margin?
+7. How do sales trends change on a monthly basis?
+8. What is the most preferred payment method among customers?
+## MySQL Business Queries
+1. How many transactions occur in each branch?
+2. Which product category generates the highest revenue?
+3. How does revenue change on a monthly basis?
+4. Which customers have spent the most?
+5. How does sales performance vary by day of the week?
+6. What is the most preferred payment method in each city?
+7. Which branch generates the highest total sales?
+8. On which day was the highest total sales recorded?
+
+## Results and Insights
+- Sales Insights: Identify top-performing categories, branches with the highest sales, and the most preferred payment methods.
+- Profitability Analysis: Examine the most profitable product categories and high-revenue locations.
+- Customer Behavior: Analyze trends in customer ratings, payment preferences, and peak shopping hours.
+
+## Future Enhancements
+- Interactive Dashboards: Integrate with visualization tools like Power BI or Tableau for dynamic reporting.
+- Data Enrichment: Incorporate additional data sources to provide deeper insights.
+- Automation: Implement real-time data ingestion and processing for seamless analysis.
