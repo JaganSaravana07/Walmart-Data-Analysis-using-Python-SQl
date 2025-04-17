@@ -35,31 +35,43 @@ This project is a comprehensive end-to-end data analysis solution aimed at uncov
 
 3. What is the average customer rating for each payment method?
 <img width="227" alt="psql - 3" src="https://github.com/user-attachments/assets/3b4e17c2-3b48-48df-a906-53279fe284b7" />
+
 4. At what time do sales peak during the day?
 <img width="294" alt="psql - 4" src="https://github.com/user-attachments/assets/cb28528d-ac47-4cf8-b7e2-64bfcaad432d" />
+
 5. Which cities generate the highest revenue?
 <img width="194" alt="psql - 5" src="https://github.com/user-attachments/assets/2dc584ee-fdb0-452b-bbf9-5cc22826d4e9" />
+
 6. Which branch has the highest profit margin?
 <img width="188" alt="psql - 6" src="https://github.com/user-attachments/assets/d72274a3-5516-42cc-be18-dd4dace9b7d8" />
+
 7. How do sales trends change on a monthly basis?
 <img width="241" alt="psql - 7" src="https://github.com/user-attachments/assets/a1c42ded-e327-46d3-bdee-d09bcf0e18b7" />
+
 8. What is the most preferred payment method among customers?
 <img width="225" alt="psql - 8" src="https://github.com/user-attachments/assets/5bf323b0-18ae-43b4-85d0-ae16586a5783" />
 ## MySQL Business Queries and Outcomes
 1. How many transactions occur in each branch?
 <img width="803" alt="My - 1" src="https://github.com/user-attachments/assets/5e55654f-9687-4727-9945-d344e3e6af5e" />
+
 2. Which product category generates the highest revenue?
 <img width="170" alt="My - 2" src="https://github.com/user-attachments/assets/6c71f6f7-bff9-4ae9-b6fa-a8513e18a38b" />
+
 3. How does revenue change on a monthly basis?
 <img width="145" alt="My - 3" src="https://github.com/user-attachments/assets/ab30797e-15fb-495b-bb7f-f7781cc3ef0e" />
+
 4. Which customers have spent the most?
 <img width="156" alt="My - 4" src="https://github.com/user-attachments/assets/384016e2-7710-43ac-90fe-92ad44da467b" />
+
 5. How does sales performance vary by day of the week?
 <img width="182" alt="My - 5" src="https://github.com/user-attachments/assets/6bd0234c-d49e-4fea-878b-aec574b50516" />
+
 6. What is the most preferred payment method in each city?
 <img width="529" alt="My - 6" src="https://github.com/user-attachments/assets/5749c69d-b0f0-45a1-a310-d7f362d8090f" />
+
 7. Which branch generates the highest total sales?
 <img width="136" alt="My - 7" src="https://github.com/user-attachments/assets/619401fb-48d2-4571-8362-13dac1f9f3bd" />
+
 8. On which day was the highest total sales recorded?
 <img width="169" alt="My - 8" src="https://github.com/user-attachments/assets/4f133742-c29a-4089-8907-6f8fe6a25b5f" />
 
