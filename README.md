@@ -27,7 +27,7 @@ This project is a comprehensive end-to-end data analysis solution aimed at uncov
 - Analyzing sales performance based on time, city, and payment method.
 - Determining peak sales periods and customer purchasing behaviors.
 ## PSQL Business Queries and Outcomes
-1. What is the total sales revenue for each branch?
+1.What is the total sales revenue for each branch?
 <img width="261" alt="psql - 1" src="https://github.com/user-attachments/assets/97bca385-afb5-4746-88ee-0fb0f93fc254" />
 
 2. Which are the top 5 best-selling product categories?
@@ -50,7 +50,9 @@ This project is a comprehensive end-to-end data analysis solution aimed at uncov
 
 8. What is the most preferred payment method among customers?
 <img width="225" alt="psql - 8" src="https://github.com/user-attachments/assets/5bf323b0-18ae-43b4-85d0-ae16586a5783" />
+
 ## MySQL Business Queries and Outcomes
+
 1. How many transactions occur in each branch?
 <img width="803" alt="My - 1" src="https://github.com/user-attachments/assets/5e55654f-9687-4727-9945-d344e3e6af5e" />
 
