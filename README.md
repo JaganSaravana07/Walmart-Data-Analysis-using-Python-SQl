@@ -29,8 +29,10 @@ This project is a comprehensive end-to-end data analysis solution aimed at uncov
 ## PSQL Business Queries and Outcomes
 1. What is the total sales revenue for each branch?
 <img width="261" alt="psql - 1" src="https://github.com/user-attachments/assets/97bca385-afb5-4746-88ee-0fb0f93fc254" />
+
 2. Which are the top 5 best-selling product categories?
 <img width="241" alt="psql - 2" src="https://github.com/user-attachments/assets/3e866f7e-2661-4bfd-ba6c-0a305d7435bd" />
+
 3. What is the average customer rating for each payment method?
 <img width="227" alt="psql - 3" src="https://github.com/user-attachments/assets/3b4e17c2-3b48-48df-a906-53279fe284b7" />
 4. At what time do sales peak during the day?
