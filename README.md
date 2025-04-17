@@ -27,29 +27,29 @@ This project is a comprehensive end-to-end data analysis solution aimed at uncov
 - Analyzing sales performance based on time, city, and payment method.
 - Determining peak sales periods and customer purchasing behaviors.
 ## PSQL Business Queries and Outcomes
-1.What is the total sales revenue for each branch?
-<img width="261" alt="psql - 1" src="https://github.com/user-attachments/assets/97bca385-afb5-4746-88ee-0fb0f93fc254" />
+1. What is the total sales revenue for each branch?
+   <img width="261" alt="psql - 1" src="https://github.com/user-attachments/assets/97bca385-afb5-4746-88ee-0fb0f93fc254" />
 
 2. Which are the top 5 best-selling product categories?
-<img width="241" alt="psql - 2" src="https://github.com/user-attachments/assets/3e866f7e-2661-4bfd-ba6c-0a305d7435bd" />
+   <img width="241" alt="psql - 2" src="https://github.com/user-attachments/assets/3e866f7e-2661-4bfd-ba6c-0a305d7435bd" />
 
 3. What is the average customer rating for each payment method?
-<img width="227" alt="psql - 3" src="https://github.com/user-attachments/assets/3b4e17c2-3b48-48df-a906-53279fe284b7" />
+   <img width="227" alt="psql - 3" src="https://github.com/user-attachments/assets/3b4e17c2-3b48-48df-a906-53279fe284b7" />
 
 4. At what time do sales peak during the day?
-<img width="294" alt="psql - 4" src="https://github.com/user-attachments/assets/cb28528d-ac47-4cf8-b7e2-64bfcaad432d" />
+   <img width="294" alt="psql - 4" src="https://github.com/user-attachments/assets/cb28528d-ac47-4cf8-b7e2-64bfcaad432d" />
 
 5. Which cities generate the highest revenue?
-<img width="194" alt="psql - 5" src="https://github.com/user-attachments/assets/2dc584ee-fdb0-452b-bbf9-5cc22826d4e9" />
+   <img width="194" alt="psql - 5" src="https://github.com/user-attachments/assets/2dc584ee-fdb0-452b-bbf9-5cc22826d4e9" />
 
 6. Which branch has the highest profit margin?
-<img width="188" alt="psql - 6" src="https://github.com/user-attachments/assets/d72274a3-5516-42cc-be18-dd4dace9b7d8" />
+   <img width="188" alt="psql - 6" src="https://github.com/user-attachments/assets/d72274a3-5516-42cc-be18-dd4dace9b7d8" />
 
 7. How do sales trends change on a monthly basis?
-<img width="241" alt="psql - 7" src="https://github.com/user-attachments/assets/a1c42ded-e327-46d3-bdee-d09bcf0e18b7" />
+   <img width="241" alt="psql - 7" src="https://github.com/user-attachments/assets/a1c42ded-e327-46d3-bdee-d09bcf0e18b7" />
 
 8. What is the most preferred payment method among customers?
-<img width="225" alt="psql - 8" src="https://github.com/user-attachments/assets/5bf323b0-18ae-43b4-85d0-ae16586a5783" />
+   <img width="225" alt="psql - 8" src="https://github.com/user-attachments/assets/5bf323b0-18ae-43b4-85d0-ae16586a5783" />
 
 ## MySQL Business Queries and Outcomes
 
